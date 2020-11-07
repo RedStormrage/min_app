@@ -1,0 +1,53 @@
+<view>
+<!-- 轮播图 -->
+  <swiper indicator-dots indicator-color="rgba(0, 0, 0, .3)" indicator-active-color="#fff" circular>
+   <swiper-item>
+      <image src="/images/bgImg.jpg" ></image>
+      
+   </swiper-item>
+   <swiper-item>
+      <image src="/images/bgImg.jpg" ></image>
+   </swiper-item>
+   <swiper-item>
+      <image src="/images/bgImg.jpg" ></image>
+   </swiper-item>
+   <swiper-item>
+      <image src="/images/bgImg.jpg" ></image>
+   </swiper-item>
+   <swiper-item>
+      <image src="/images/bgImg.jpg" ></image>
+   </swiper-item>
+   <swiper-item>
+      <image src="/images/bgImg.jpg" ></image>
+   </swiper-item>
+  
+  </swiper>
+  <!-- 每日推荐 -->
+  <view class="item-list">
+    <view>
+      <icon class="iconfont  icon-meirituijian"></icon>
+    
+    </view>
+    <text>每日推荐</text>
+    <view>
+      <icon ></icon>
+    
+    </view>
+    <text>每日推荐</text>
+    <view>
+      <icon ></icon>
+    
+    </view>
+    <text>每日推荐</text>
+    <view>
+      <icon ></icon>
+    
+    </view>
+    <text>每日推荐</text>
+    <view>
+      <icon ></icon>
+    
+    </view>
+    <text>每日推荐</text>
+  </view>
+</view>
